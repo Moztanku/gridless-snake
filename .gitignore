@@ -1,0 +1,11 @@
+*.o
+main
+*.notes
+.vscode
+CMakeFiles
+Makefile
+CMakeCache.txt
+cmake_install.cmake
+makefile
+build
+sfml-app
